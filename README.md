@@ -14,7 +14,7 @@
     PUBLIC - Make You Mine (Put Your Hand in Mine): https://www.youtube.com/watch?v=nLnp0tpZ0ok&list=RDJkAPUuhTKSo&index=2 \
     
 ## dom-cheatsheet-ts branch 
- TS summary, is an intro
+ TS dom events
  ### Resources
   - Exercise: https://codesandbox.io/s/challenge-1-with-tsx-gip4n?file=/src/Table.tsx \
   - Errors I came across while doing this:
