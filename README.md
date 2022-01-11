@@ -9,6 +9,7 @@
   - Errors I came across while doing this:
     1. Error: What is "not assignable to parameter of type never" error in TypeScript? \
        Solution: https://stackoverflow.com/questions/52423842/what-is-not-assignable-to-parameter-of-type-never-error-in-typescript \
+    2. useState typing: https://www.carlrippon.com/typed-usestate-with-typescript/ \
   - Playlist: \
     PUBLIC - Missing You Today: https://www.youtube.com/watch?v=JkAPUuhTKSo&list=RDJkAPUuhTKSo&start_radio=1 \
     PUBLIC - Make You Mine (Put Your Hand in Mine): https://www.youtube.com/watch?v=nLnp0tpZ0ok&list=RDJkAPUuhTKSo&index=2 \
